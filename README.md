@@ -7,6 +7,6 @@
 
 
 ### code to update repo
-- this should be done before yo begin working to get any new changes in your local repo
+- this should be done before you begin working to get any new changes from the main repo in to your own local repo
 1. git pull upstream main
 2. git push origin
