@@ -1,13 +1,23 @@
 # PBPL280S21Project1
-<<<<<<< HEAD
 
-Contributor: Eddie Ramirez (https://github.com/eddieramz)
-=======
 ## Contributors 
 [Haley Welch](https://github.com/hay1997)
 [niloufar nasrollahzadeh] (https://github.com/nnasr001)
 [Chelsy Alfaro](https://github.com/calfa021)
 [Jenny Chen](https://github.com/jchen321)
+[Eddie Ramirez]https://github.com/eddieramz)
+
+
+## neighborhood variables notebook
+- neighborhood_income.ipynb 
+    - contains variables: median household income, median home value, per capita income
+    
+## neighborhood variables datasets
+- ca_sabs.parquet 
+    - California school catchment zone
+
+
+## school variables notebooks
 
 
 ### code to update repo
