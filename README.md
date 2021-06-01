@@ -19,6 +19,10 @@
 
 
 ## school variables notebooks
+- attendance_data.ipynb
+- Schoolsproject.ipynb
+    - contains variables: HS graduation rate, dropout rate, chronic absenteeism rate
+## school variable datasets 
 
 
 ### code to update repo
