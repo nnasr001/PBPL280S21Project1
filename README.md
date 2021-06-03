@@ -12,7 +12,8 @@
 ## neighborhood variables notebook
 - neighborhood_income.ipynb 
     - contains variables: median household income, median home value, per capita income
-    
+- income_counties.ipynb
+    - contains income variables for the 4 counties: Orange, San Bernardino, San Diego, and Riverside county
 ## neighborhood variables datasets
 - ca_sabs.parquet 
     - California school catchment zone
