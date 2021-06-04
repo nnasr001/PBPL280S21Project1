@@ -23,8 +23,9 @@
 - attendance_data.ipynb
 - Schoolsproject.ipynb
     - contains variables: HS graduation rate, dropout rate, chronic absenteeism rate
+    
 ## school variable datasets 
-
+- two CA Department of Education data CSV files. 
 
 ### code to update repo
 - this should be done before you begin working to get any new changes from the main repo in to your own local repo
