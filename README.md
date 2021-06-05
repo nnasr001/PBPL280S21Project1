@@ -18,6 +18,9 @@
 - ca_sabs.parquet 
     - California school catchment zone
 
+##demographics notebook
+- Demographics.ipynb
+    - Age and Sex of Males and Females in high school age groups
 
 ## school variables notebooks
 - attendance_data.ipynb
