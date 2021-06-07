@@ -7,6 +7,7 @@
 [Chelsy Alfaro](https://github.com/calfa021)
 [Jenny Chen](https://github.com/jchen321)
 [Eddie Ramirez](https://github.com/eddieramz)
+[Samantha Stackelhouse](https://github.com/sammiejo10)
 
 
 ## neighborhood variables notebook
